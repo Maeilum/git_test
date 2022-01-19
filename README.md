@@ -1,2 +1,3 @@
 # git_test
-It's a test for git.
+My first Github repo!
+Hello Odin!
